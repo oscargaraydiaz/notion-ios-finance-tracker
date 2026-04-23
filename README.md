@@ -164,7 +164,7 @@ notion-ios-finance-tracker/
 
 **Oscar Fabian Garay Diaz**  
 Systems Engineer · Data Analyst · AI Automation Builder  
-Zarzal, Colombia · [LinkedIn](https://linkedin.com/in/oscar-garay) · [GitHub](https://github.com/oscar-garay)
+Zarzal, Colombia · [LinkedIn](https://www.linkedin.com/in/oscargarayd/) · [GitHub](https://github.com/oscargaraydiaz)
 
 ---
 
