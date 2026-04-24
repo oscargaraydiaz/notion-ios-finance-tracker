@@ -8,7 +8,7 @@
     {"name": "Moneda", "type": "select", "options": ["USD", "COP"]},
     {"name": "Tipo", "type": "select", "options": ["Ingreso", "Gasto Variable", "Gasto Fijo", "Obligacion", "Inversion", "Ahorro", "Deuda"]},
     {"name": "Cuenta", "type": "select", "options": ["PayPal", "Bancolombia", "Nequi", "Efectivo", "Rappi", "trii.co"]},
-    {"name": "Categoria", "type": "select", "options": ["Trabajo OCMI", "Negocio", "Alimentacion", "Transporte", "Salud y Ejercicio", "Educacion e Ingles", "Servicios Digitales", "Entretenimiento", "Seguridad Social", "ETFs Inversion", "Ahorro Emergencia", "Deuda Tarjeta", "Vivienda", "Personal"]},
+    {"name": "Categoria", "type": "select", "options": ["Trabajo", "Negocio", "Alimentacion", "Transporte", "Salud y Ejercicio", "Educacion e Ingles", "Servicios Digitales", "Entretenimiento", "Seguridad Social", "ETFs Inversion", "Ahorro Emergencia", "Deuda Tarjeta", "Vivienda", "Personal"]},
     {"name": "Fecha", "type": "date", "format": "ISO 8601"},
     {"name": "Notas", "type": "rich_text", "required": false},
     {"name": "ID", "type": "unique_id", "prefix": "TXN", "auto": true},
