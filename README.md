@@ -8,6 +8,7 @@
 ![Status](https://img.shields.io/badge/Status-Production-brightgreen)
 
 ---
+<img width="2588" height="1484" alt="image" src="https://github.com/user-attachments/assets/da795377-095d-4f72-bb9f-0745b7e904ee" />
 
 ## 🎯 What it does
 
